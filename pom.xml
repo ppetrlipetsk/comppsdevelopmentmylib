@@ -48,7 +48,7 @@
                     <outputDirectory>${project.build.directory}/mvn-repo</outputDirectory>
                     <branch>refs/heads/mvn-repo</branch>
                     <includes><include>**/*</include></includes>
-                    <repositoryName>databasehelper</repositoryName>
+                    <repositoryName>comppsdevelopmentmylib</repositoryName>
                     <repositoryOwner>ppetrlipetsk</repositoryOwner>
                 </configuration>
                 <executions>
